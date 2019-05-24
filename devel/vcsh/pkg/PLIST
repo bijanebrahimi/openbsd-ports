@@ -1,0 +1,9 @@
+@comment $OpenBSD: PLIST,v$
+bin/vcsh
+@man man/man1/vcsh.1
+share/vcsh/
+share/vcsh/README.md
+share/vcsh/hooks
+share/zsh/
+share/zsh/vendor-completions/
+share/zsh/vendor-completions/_vcsh

@@ -1,0 +1,5 @@
+vcsh allows you to maintain several Git repositories in one single
+directory. They all maintain their working trees without clobbering
+each other or interfering otherwise. By default, all Git repositories
+maintained via vcsh store the actual files in $HOME but you can
+override this setting if you want to.
