@@ -1,0 +1,15 @@
+@comment $OpenBSD: PLIST,v$
+bin/mr
+bin/webcheckout
+@man man/man1/mr.1
+@man man/man1/webcheckout.1
+share/mr/
+share/mr/git-annex
+share/mr/git-fake-bare
+share/mr/git-subtree
+share/mr/git-svn
+share/mr/repo
+share/mr/stow
+share/mr/unison
+share/mr/vcsh
+share/mr/vis
