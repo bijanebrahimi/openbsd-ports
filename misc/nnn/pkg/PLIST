@@ -1,0 +1,3 @@
+@comment $OpenBSD: PLIST,v$
+@bin bin/nnn
+@man man/man1/nnn.1
